@@ -83,7 +83,7 @@ This project is a C# implementation of the traditional board game Gomoku, suppor
   | Live four           | 1000     |
   | Forbidden pattern   | -10000   |
 
-- The AI does **not** use deep search algorithms (like minimax or alpha-beta pruning), but instead relies on static pattern recognition.
+- The Computer does **not** use deep search algorithms (like minimax or alpha-beta pruning), but instead relies on static pattern recognition.
 - It reacts quickly and is suitable for beginners to practice, but has limitations in complex situations.
 
 ## 🖼️ UI Design
